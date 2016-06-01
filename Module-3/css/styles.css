@@ -1,0 +1,68 @@
+body{
+	font-family: 'Dancing Script', cursive;
+	box-sizing: border-box;
+	background-color: #653565;
+	color: white;
+}
+.logo h1{
+	font-size: 3em;
+	text-align: center;
+	color: white;text-align: left;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.navbar-brand{
+	height: auto;
+	border-radius: 0px;
+	border: 0px;
+}
+.navbar{
+	background-color: #222222;
+	border-radius: 0px;
+}
+.navbar-default .navbar-nav>li>a{
+	font-size: 2em;
+	color: white;
+	padding-top: 30px;
+	padding-bottom: 40px;
+}
+.navbar-default .navbar-nav>li>a:hover{
+	color:#653565;
+}
+.navbar-default .navbar-nav > li > a:focus{
+	background-color:#653565;
+	color :white;
+}
+ul li{
+	text-align: center;
+	
+}
+body > h1{
+	margin-top: 100px;
+	text-align:center;
+	font-size: 3.5em;
+}
+body >div{
+	margin: 10px auto 10px;
+	position: relative;
+	padding: 80px 30px 30px 20px;
+	width:80%;
+	height: 1000px;
+	border: 2px solid #ffffff;
+	border-radius: 10px;
+	font-size: 1.5em;
+}
+div h2{
+	text-align: center;
+	font-size: 1.5em;
+}
+.subheading{
+	position: absolute;
+	width: 100%;
+	float: left;
+	border-radius: 10px;
+	margin-bottom: 10px;
+	top: 0px;
+	left: 0px;
+	background-color:#222222;
+}
